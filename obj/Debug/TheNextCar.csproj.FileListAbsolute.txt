@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\bin\Debug\TheNextCar.exe.config
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\bin\Debug\TheNextCar.exe
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\bin\Debug\TheNextCar.pdb
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\obj\Debug\TheNextCar.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\obj\Debug\App.g.cs
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\obj\Debug\TheNextCar_MarkupCompile.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\obj\Debug\TheNextCar_MarkupCompile.lref
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\obj\Debug\MainWindow.baml
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\obj\Debug\TheNextCar.g.resources
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\obj\Debug\TheNextCar.Properties.Resources.resources
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\obj\Debug\TheNextCar.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\obj\Debug\TheNextCar.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\obj\Debug\TheNextCar.exe
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Pemrog\TheNextCar\TheNextCar\obj\Debug\TheNextCar.pdb
